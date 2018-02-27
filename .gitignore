@@ -1,0 +1,14 @@
+# temp files
+*~
+*.pyc
+
+# log data
+*.log
+
+# vs projectfile
+*.sln
+*.pyproj
+.vs/
+
+# test cases
+test.*
